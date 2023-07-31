@@ -1,0 +1,15 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid #d7d7d7;
+  box-sizing: border-box;
+  width: 280px;
+  height: 177px;
+}
+.rectangleParent {
+  position: relative;
+  width: 100%;
+  height: 177px;
+}

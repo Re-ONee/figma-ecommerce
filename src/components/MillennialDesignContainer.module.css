@@ -1,0 +1,40 @@
+.aug2022,
+.goingAllInWith {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 119px;
+}
+.aug2022 {
+  top: 47px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-100);
+}
+.goingAllInWithMillennialDParent {
+  position: absolute;
+  top: 8px;
+  left: 92px;
+  width: 119px;
+  height: 65px;
+}
+.groupChild,
+.groupParent {
+  position: absolute;
+  left: 0;
+  height: 80px;
+}
+.groupChild {
+  top: 0;
+  border-radius: var(--br-3xs);
+  width: 80px;
+  object-fit: cover;
+}
+.groupParent {
+  top: 62px;
+  width: 211px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,45 @@
+.showMoreChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--primary);
+  box-sizing: border-box;
+  width: 245px;
+  height: 48px;
+}
+.showMore1 {
+  position: absolute;
+  top: 12px;
+  left: 82px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.showMore {
+  position: absolute;
+  top: 1036px;
+  left: 496px;
+  width: 245px;
+  height: 48px;
+  cursor: pointer;
+}
+.title {
+  position: absolute;
+  top: 0;
+  left: 486px;
+  font-size: var(--font-size-21xl);
+  line-height: 120%;
+  color: var(--color-gray-1);
+  text-align: center;
+}
+.ourProducts {
+  position: absolute;
+  top: 1610px;
+  left: 102px;
+  width: 1236px;
+  height: 1084px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--primary);
+  font-family: var(--font-poppins);
+}

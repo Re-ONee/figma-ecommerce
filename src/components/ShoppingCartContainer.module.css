@@ -1,0 +1,38 @@
+.shoppingCart {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  font-weight: 600;
+}
+.groupChild {
+  position: absolute;
+  top: 61.5px;
+  left: 2.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 288px;
+  height: 1px;
+}
+.groupIcon {
+  position: absolute;
+  height: 5.69%;
+  width: 4.75%;
+  top: 2.1%;
+  right: 0.39%;
+  bottom: 92.22%;
+  left: 94.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.shoppingCartParent {
+  position: absolute;
+  top: 28px;
+  left: 1050px;
+  width: 350px;
+  height: 334px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

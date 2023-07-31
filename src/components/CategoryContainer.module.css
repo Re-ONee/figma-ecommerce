@@ -1,0 +1,110 @@
+.categories,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild {
+  background-color: var(--color-white);
+  width: 393px;
+  height: 537px;
+}
+.categories {
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.crafts,
+.design {
+  position: absolute;
+  top: 69px;
+  left: 0;
+}
+.design {
+  top: 134px;
+}
+.handmade,
+.interior,
+.wood {
+  position: absolute;
+  top: 199px;
+  left: 0;
+}
+.interior,
+.wood {
+  top: 264px;
+}
+.wood {
+  top: 329px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4 {
+  position: absolute;
+  top: 69px;
+  left: 240px;
+}
+.div1,
+.div2,
+.div3,
+.div4 {
+  top: 134px;
+}
+.div2,
+.div3,
+.div4 {
+  top: 199px;
+}
+.div3,
+.div4 {
+  top: 264px;
+}
+.div4 {
+  top: 329px;
+}
+.categoriesParent,
+.groupItem {
+  position: absolute;
+  top: 123px;
+  left: 77px;
+  width: 251px;
+  height: 353px;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 311px;
+  height: 58px;
+}
+.akarIconssearch {
+  position: absolute;
+  top: 17px;
+  left: 277px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangleGroup,
+.rectangleParent {
+  position: absolute;
+  top: 22px;
+  left: 41px;
+  width: 311px;
+  height: 58px;
+}
+.rectangleParent {
+  top: 84px;
+  left: 947px;
+  width: 393px;
+  height: 537px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-poppins);
+}

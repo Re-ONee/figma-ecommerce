@@ -1,0 +1,75 @@
+.size {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-100);
+}
+.groupChild,
+.l,
+.size {
+  position: absolute;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--primary);
+  width: 30px;
+  height: 30px;
+}
+.l {
+  top: 5px;
+  left: 12px;
+}
+.groupItem,
+.rectangleParent {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+}
+.rectangleParent {
+  top: 33px;
+  left: 1px;
+  color: var(--color-white);
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-linen-200);
+}
+.rectangleGroup,
+.xl {
+  position: absolute;
+  top: 5px;
+  left: 8px;
+}
+.rectangleGroup {
+  top: 33px;
+  left: 47px;
+  width: 30px;
+  height: 30px;
+}
+.xs {
+  position: absolute;
+  top: 5px;
+  left: 7px;
+}
+.rectangleContainer,
+.sizeParent {
+  position: absolute;
+  top: 33px;
+  left: 93px;
+  width: 30px;
+  height: 30px;
+}
+.sizeParent {
+  top: 254px;
+  left: 0;
+  width: 123px;
+  height: 63px;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

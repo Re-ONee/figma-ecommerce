@@ -1,0 +1,113 @@
+.groupChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 777px;
+}
+.div,
+.groupChild,
+.groupItem {
+  position: absolute;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary);
+  width: 60px;
+  height: 60px;
+}
+.div {
+  top: 15px;
+  left: 27px;
+}
+.rectangleGroup {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  color: var(--color-white);
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-linen-200);
+  width: 60px;
+  height: 60px;
+}
+.div1 {
+  position: absolute;
+  top: 15px;
+  left: 24px;
+}
+.rectangleContainer {
+  position: relative;
+  width: 60px;
+  height: 60px;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-linen-200);
+  width: 98px;
+  height: 60px;
+}
+.next {
+  position: absolute;
+  top: 15px;
+  left: 28px;
+  font-weight: 300;
+}
+.rectangleParent1 {
+  position: relative;
+  width: 98px;
+  height: 60px;
+}
+.groupParent {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-11xl) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 38px;
+}
+.frameParent {
+  position: absolute;
+  top: 17px;
+  left: 99px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 40px;
+}
+.rectangleParent {
+  position: relative;
+  width: 1440px;
+  height: 2051px;
+  cursor: pointer;
+}
+.shopInner {
+  position: absolute;
+  top: 563px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.shop {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3474px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,68 @@
+.cart,
+.groupChild {
+  position: absolute;
+  left: 0;
+}
+.groupChild {
+  top: -6px;
+  width: 1440px;
+  height: 328px;
+  object-fit: cover;
+}
+.cart {
+  top: 61px;
+  font-weight: 500;
+}
+.meubelHouseLogos05Icon {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 77px;
+  height: 77px;
+  object-fit: cover;
+}
+.cartParent {
+  position: absolute;
+  top: 61px;
+  left: 667px;
+  width: 106px;
+  height: 133px;
+}
+.cart1,
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.cart1 {
+  left: 80px;
+  font-weight: 300;
+}
+.dashiconsarrowDownAlt2 {
+  position: absolute;
+  top: 2px;
+  left: 54px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.homeParent,
+.rectangleParent {
+  position: absolute;
+  top: 195px;
+  left: 660px;
+  width: 115px;
+  height: 24px;
+  font-size: var(--font-size-base);
+}
+.rectangleParent {
+  top: 100px;
+  left: 0;
+  width: 1440px;
+  height: 316px;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

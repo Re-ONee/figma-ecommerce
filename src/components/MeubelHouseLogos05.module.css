@@ -1,0 +1,9 @@
+.meubelHouseLogos05 {
+  position: relative;
+  width: 50px;
+  height: 32px;
+  background-image: url(/public/meubel-house-logos053@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

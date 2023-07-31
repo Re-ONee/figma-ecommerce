@@ -1,0 +1,70 @@
+.groupChild {
+  width: 108px;
+  height: 105px;
+  object-fit: cover;
+}
+.asgaardSofa,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div,
+.rs25000000,
+.x {
+  position: absolute;
+  font-weight: 300;
+}
+.div {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+}
+.rs25000000,
+.x {
+  top: 3px;
+  left: 20px;
+}
+.rs25000000 {
+  left: 43px;
+  font-weight: 500;
+  color: var(--primary);
+}
+.parent {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  width: 130px;
+  height: 24px;
+  font-size: var(--font-size-xs);
+}
+.asgaardSofaParent,
+.vectorIcon {
+  position: absolute;
+  top: 24px;
+  left: 140px;
+  width: 130px;
+  height: 56px;
+}
+.vectorIcon {
+  height: 19.05%;
+  width: 5.71%;
+  top: 40%;
+  right: 0;
+  bottom: 40.95%;
+  left: 94.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupParent {
+  position: absolute;
+  top: 104px;
+  left: 0;
+  width: 350px;
+  height: 105px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

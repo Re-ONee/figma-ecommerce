@@ -1,0 +1,199 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1144px;
+}
+.getInTouch {
+  position: absolute;
+  top: 98px;
+  left: 533px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+}
+.forMoreInformation {
+  position: absolute;
+  top: 159px;
+  left: 398px;
+  color: var(--color-darkgray-100);
+  text-align: center;
+  display: inline-block;
+  width: 644px;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 635px;
+  height: 923px;
+}
+.groupInner {
+  border-radius: var(--br-8xs);
+  background-color: var(--primary);
+  border: 1px solid var(--primary);
+  box-sizing: border-box;
+  width: 237px;
+  height: 55px;
+}
+.submit {
+  position: absolute;
+  top: 13.75px;
+  left: 89px;
+  display: inline-block;
+  width: 59.21px;
+  height: 27.5px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 686px;
+  left: 7px;
+  width: 237px;
+  height: 55px;
+  color: var(--color-white);
+}
+.yourName {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 111.25px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 46px;
+  left: 1.25px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 528.75px;
+  height: 75px;
+}
+.yourNameParent {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 530px;
+  height: 121px;
+}
+.emailAddress {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 143.75px;
+}
+.abcdefcom {
+  position: absolute;
+  top: 72px;
+  left: 31px;
+  color: var(--color-darkgray-100);
+}
+.emailAddressParent {
+  position: absolute;
+  top: 157px;
+  left: 1px;
+  width: 530px;
+  height: 121px;
+}
+.subject {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 75.96px;
+}
+.groupChild2 {
+  position: absolute;
+  top: 46px;
+  left: 1.25px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 526.75px;
+  height: 75px;
+}
+.groupChild3,
+.subjectParent {
+  position: absolute;
+  top: 314px;
+  left: 3px;
+  width: 528px;
+  height: 121px;
+}
+.groupChild3 {
+  top: 46px;
+  left: 1px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 527px;
+  height: 120px;
+}
+.messageParent {
+  position: absolute;
+  top: 471px;
+  left: 0;
+  width: 528px;
+  height: 166px;
+}
+.abc {
+  position: absolute;
+  top: 72px;
+  left: 32px;
+  color: var(--color-darkgray-100);
+}
+.groupContainer {
+  position: absolute;
+  top: 119px;
+  left: 52px;
+  width: 531px;
+  height: 741px;
+}
+.groupParent,
+.groupWrapper,
+.rectangleGroup,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 635px;
+  height: 923px;
+}
+.groupParent,
+.groupWrapper,
+.rectangleParent {
+  left: 423px;
+}
+.groupParent,
+.rectangleParent {
+  top: 221px;
+  left: 191px;
+  width: 1058px;
+}
+.rectangleParent {
+  top: 416px;
+  left: 0;
+  width: 1440px;
+  height: 1144px;
+}
+.contact {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2365px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,228 @@
+.footerChild {
+  position: absolute;
+  height: 100.1%;
+  width: 100%;
+  top: -0.1%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border-top: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+}
+.universityDriveSuite {
+  margin: 0;
+}
+.universityDriveSuiteContainer {
+  position: absolute;
+  width: 25.15%;
+  top: 27.56%;
+  left: 0.18%;
+  color: var(--color-darkgray-100);
+  display: inline-block;
+}
+.funiro {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+}
+.about,
+.contact,
+.home,
+.shop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.about,
+.contact,
+.shop {
+  top: 30.04%;
+}
+.about,
+.contact {
+  top: 60.09%;
+}
+.contact {
+  top: 89.7%;
+}
+.homeParent {
+  position: absolute;
+  height: 74.68%;
+  width: 97.06%;
+  top: 25.32%;
+  right: 0;
+  bottom: 0;
+  left: 2.94%;
+}
+.groupParent1,
+.links {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.links {
+  font-weight: 500;
+  color: var(--color-darkgray-100);
+}
+.groupParent1 {
+  height: 100%;
+  width: 19.32%;
+  right: 80.68%;
+  bottom: 0;
+}
+.privacyPolicies,
+.returns {
+  position: absolute;
+  top: 42.94%;
+  left: 0;
+  font-weight: 500;
+}
+.privacyPolicies {
+  top: 85.28%;
+}
+.helpParent,
+.paymentOptionsParent {
+  position: absolute;
+  height: 67.36%;
+  width: 100%;
+  top: 32.64%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: var(--color-black);
+}
+.helpParent {
+  height: 77.56%;
+  width: 39.77%;
+  top: 0;
+  bottom: 22.44%;
+  left: 60.23%;
+  color: var(--color-darkgray-100);
+}
+.groupDiv {
+  height: 100%;
+  width: 49.58%;
+  right: 50.42%;
+  bottom: 0;
+}
+.enterYourEmail,
+.groupChild,
+.groupDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild {
+  height: 8.33%;
+  width: 70.63%;
+  top: 95.83%;
+  right: 29.72%;
+  bottom: -4.17%;
+  left: -0.35%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.subscribe {
+  position: absolute;
+  top: 0;
+  left: 73.78%;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.groupItem {
+  position: absolute;
+  height: 8.33%;
+  width: 26.93%;
+  top: 95.83%;
+  right: -0.35%;
+  bottom: -4.17%;
+  left: 73.42%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.enterYourEmailAddressParent {
+  position: absolute;
+  height: 23.76%;
+  width: 100%;
+  top: 76.24%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+}
+.newsletterParent {
+  position: absolute;
+  height: 32.37%;
+  width: 40.28%;
+  top: 0.64%;
+  right: 0;
+  bottom: 66.99%;
+  left: 59.72%;
+  color: var(--color-darkgray-100);
+}
+.groupContainer {
+  position: absolute;
+  height: 100%;
+  width: 62.67%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 37.33%;
+}
+.groupInner,
+.universityDriveSuite200CorParent {
+  position: absolute;
+  height: 74.46%;
+  width: 91.37%;
+  top: 0;
+  right: 8.63%;
+  bottom: 25.54%;
+  left: 0;
+}
+.groupInner {
+  height: 1.69%;
+  width: 100.08%;
+  top: -0.85%;
+  right: -0.04%;
+  bottom: 99.15%;
+  left: -0.04%;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.furinoAllRights {
+  position: absolute;
+  top: 59.32%;
+  left: 0.16%;
+}
+.groupParent,
+.lineParent {
+  position: absolute;
+  height: 14.08%;
+  width: 100%;
+  top: 85.92%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.groupParent {
+  height: 82.97%;
+  width: 86.11%;
+  top: 9.5%;
+  right: 6.94%;
+  bottom: 7.52%;
+  left: 6.94%;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 505px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

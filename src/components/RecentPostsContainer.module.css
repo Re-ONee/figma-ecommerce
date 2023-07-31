@@ -1,0 +1,17 @@
+.recentPosts {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-weight: 500;
+}
+.recentPostsParent {
+  position: absolute;
+  top: 16px;
+  left: 76px;
+  width: 252px;
+  height: 618px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

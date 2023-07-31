@@ -1,0 +1,68 @@
+.trophy1Icon {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.craftedFromTop,
+.highQuality {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.craftedFromTop {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-gray-3);
+}
+.text,
+.trophy1Parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.trophy1Parent {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-3xs);
+}
+.frameChild {
+  position: relative;
+  width: 85px;
+  height: 85px;
+  display: none;
+}
+.feature,
+.featureWrapper,
+.guaranteeParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.guaranteeParent {
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.feature,
+.featureWrapper {
+  width: 1334px;
+  justify-content: space-between;
+}
+.featureWrapper {
+  position: absolute;
+  top: 963px;
+  left: 0;
+  background-color: var(--color-linen-100);
+  width: 1440px;
+  height: 270px;
+  flex-direction: column;
+  padding: var(--padding-81xl) 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-poppins);
+}

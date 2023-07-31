@@ -1,0 +1,766 @@
+.goToProduct {
+  margin: 0;
+}
+.goToProductContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.asgaardSofa,
+.dimensions,
+.general,
+.goToProductContainer,
+.outdoorSofaSet,
+.product,
+.warranty {
+  position: absolute;
+  top: 55px;
+  left: 42px;
+  font-size: var(--font-size-9xl);
+  line-height: 126.5%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 223px;
+}
+.asgaardSofa,
+.dimensions,
+.general,
+.outdoorSofaSet,
+.product,
+.warranty {
+  top: 229px;
+  left: 342px;
+  font-size: var(--font-size-5xl);
+  width: 192px;
+}
+.dimensions,
+.general,
+.outdoorSofaSet,
+.product,
+.warranty {
+  left: 674px;
+  width: 224px;
+}
+.dimensions,
+.general,
+.product,
+.warranty {
+  top: 428px;
+  left: 42px;
+  font-size: var(--font-size-9xl);
+  width: 175px;
+}
+.dimensions,
+.product,
+.warranty {
+  top: 1352px;
+}
+.product,
+.warranty {
+  top: 1831px;
+}
+.product {
+  top: 907px;
+  width: 225px;
+}
+.cm,
+.salesPackage,
+.sectionalSofa,
+.threeSeater2,
+.warrantySummary,
+.width,
+.yearManufacturingWarranty {
+  position: absolute;
+  top: 491px;
+  left: 42px;
+  line-height: 126.5%;
+  display: flex;
+  align-items: center;
+  width: 175px;
+}
+.cm,
+.sectionalSofa,
+.threeSeater2,
+.warrantySummary,
+.width,
+.yearManufacturingWarranty {
+  top: 1415px;
+}
+.cm,
+.sectionalSofa,
+.threeSeater2,
+.warrantySummary,
+.yearManufacturingWarranty {
+  top: 1894px;
+  width: 233px;
+}
+.cm,
+.sectionalSofa,
+.threeSeater2,
+.yearManufacturingWarranty {
+  top: 478px;
+  left: 363px;
+  width: 226px;
+}
+.cm,
+.threeSeater2,
+.yearManufacturingWarranty {
+  top: 465px;
+  left: 707px;
+}
+.cm,
+.yearManufacturingWarranty {
+  top: 1415px;
+  left: 363px;
+}
+.yearManufacturingWarranty {
+  top: 1898px;
+}
+.cm1,
+.cm2,
+.cm3,
+.dtubligrbl568,
+.foam,
+.matte,
+.tfcbligrbl6srhs,
+.yearManufacturingWarranty1 {
+  position: absolute;
+  top: 1894px;
+  left: 682px;
+  line-height: 126.5%;
+  display: flex;
+  align-items: center;
+  width: 226px;
+}
+.cm1,
+.cm2,
+.cm3,
+.dtubligrbl568,
+.foam,
+.matte,
+.tfcbligrbl6srhs {
+  top: 1415px;
+  left: 707px;
+}
+.cm2,
+.cm3,
+.dtubligrbl568,
+.foam,
+.matte,
+.tfcbligrbl6srhs {
+  top: 550px;
+  left: 363px;
+}
+.cm2,
+.cm3,
+.dtubligrbl568,
+.foam,
+.matte {
+  left: 707px;
+}
+.cm2,
+.cm3,
+.foam,
+.matte {
+  top: 1474px;
+  left: 363px;
+}
+.cm3,
+.foam,
+.matte {
+  left: 707px;
+}
+.foam,
+.matte {
+  top: 970px;
+  left: 363px;
+}
+.matte {
+  left: 707px;
+}
+.adjustableHeadrest,
+.fillingMaterial,
+.finishType,
+.maximumLoadCapacity,
+.originOfManufacture {
+  position: absolute;
+  top: 970px;
+  left: 42px;
+  line-height: 126.5%;
+  display: flex;
+  align-items: center;
+  width: 175px;
+}
+.adjustableHeadrest,
+.finishType,
+.maximumLoadCapacity,
+.originOfManufacture {
+  top: 1029px;
+}
+.adjustableHeadrest,
+.maximumLoadCapacity,
+.originOfManufacture {
+  top: 1088px;
+  width: 213px;
+}
+.maximumLoadCapacity,
+.originOfManufacture {
+  top: 1147px;
+  width: 203px;
+}
+.originOfManufacture {
+  top: 1231px;
+  width: 225px;
+}
+.coveredInWarranty,
+.depth,
+.height,
+.modelNumber,
+.secondaryMaterial,
+.warrantyServiceTypeContainer {
+  position: absolute;
+  top: 550px;
+  left: 42px;
+  line-height: 126.5%;
+  display: flex;
+  align-items: center;
+  width: 241px;
+}
+.coveredInWarranty,
+.depth,
+.height,
+.secondaryMaterial,
+.warrantyServiceTypeContainer {
+  top: 1474px;
+}
+.coveredInWarranty,
+.depth,
+.secondaryMaterial,
+.warrantyServiceTypeContainer {
+  top: 1982px;
+}
+.coveredInWarranty,
+.depth,
+.secondaryMaterial {
+  top: 609px;
+}
+.coveredInWarranty,
+.depth {
+  top: 1533px;
+}
+.coveredInWarranty {
+  top: 2141px;
+}
+.brightGrey,
+.brightGrey1,
+.cm4,
+.cm5,
+.forWarrantyClaims,
+.forWarrantyClaims1,
+.solidWood,
+.solidWood1 {
+  position: absolute;
+  top: 609px;
+  left: 363px;
+  line-height: 126.5%;
+  display: flex;
+  align-items: center;
+  width: 241px;
+}
+.brightGrey,
+.brightGrey1,
+.cm4,
+.cm5,
+.forWarrantyClaims,
+.forWarrantyClaims1,
+.solidWood1 {
+  left: 707px;
+}
+.brightGrey,
+.brightGrey1,
+.cm4,
+.cm5,
+.forWarrantyClaims,
+.forWarrantyClaims1 {
+  top: 1533px;
+  left: 363px;
+}
+.brightGrey,
+.brightGrey1,
+.cm5,
+.forWarrantyClaims,
+.forWarrantyClaims1 {
+  top: 1982px;
+}
+.brightGrey,
+.brightGrey1,
+.cm5,
+.forWarrantyClaims1 {
+  top: 1987px;
+  left: 676px;
+}
+.brightGrey,
+.brightGrey1,
+.cm5 {
+  top: 1533px;
+  left: 707px;
+}
+.brightGrey,
+.brightGrey1 {
+  top: 1029px;
+  left: 363px;
+}
+.brightGrey1 {
+  left: 707px;
+}
+.configuration,
+.kg,
+.kg1,
+.lShaped,
+.lShaped1,
+.no,
+.seatHeight,
+.upholsteryMaterial,
+.weight,
+.yes {
+  position: absolute;
+  top: 668px;
+  left: 42px;
+  line-height: 126.5%;
+  display: flex;
+  align-items: center;
+  width: 175px;
+}
+.kg,
+.kg1,
+.lShaped,
+.lShaped1,
+.no,
+.seatHeight,
+.upholsteryMaterial,
+.weight,
+.yes {
+  top: 1592px;
+}
+.kg,
+.kg1,
+.lShaped,
+.lShaped1,
+.no,
+.seatHeight,
+.upholsteryMaterial,
+.yes {
+  top: 668px;
+  left: 363px;
+}
+.kg,
+.kg1,
+.lShaped1,
+.no,
+.seatHeight,
+.upholsteryMaterial,
+.yes {
+  left: 707px;
+}
+.kg,
+.kg1,
+.no,
+.seatHeight,
+.upholsteryMaterial,
+.yes {
+  top: 1592px;
+  left: 363px;
+}
+.kg1,
+.no,
+.seatHeight,
+.upholsteryMaterial,
+.yes {
+  left: 707px;
+}
+.no,
+.seatHeight,
+.upholsteryMaterial,
+.yes {
+  top: 1088px;
+  left: 363px;
+}
+.seatHeight,
+.upholsteryMaterial,
+.yes {
+  left: 707px;
+}
+.seatHeight,
+.upholsteryMaterial {
+  top: 727px;
+  left: 42px;
+  width: 241px;
+}
+.seatHeight {
+  top: 1651px;
+}
+.cm6,
+.cm7,
+.fabricCotton,
+.fabricCotton1,
+.warrantyAgainstManufacturing,
+.warrantyOfThe {
+  position: absolute;
+  top: 727px;
+  left: 363px;
+  line-height: 126.5%;
+  display: flex;
+  align-items: center;
+  width: 241px;
+}
+.cm6,
+.cm7,
+.fabricCotton1,
+.warrantyAgainstManufacturing,
+.warrantyOfThe {
+  left: 707px;
+}
+.cm6,
+.cm7,
+.warrantyAgainstManufacturing,
+.warrantyOfThe {
+  top: 1651px;
+  left: 363px;
+}
+.cm7,
+.warrantyAgainstManufacturing,
+.warrantyOfThe {
+  top: 2142px;
+}
+.cm7,
+.warrantyOfThe {
+  top: 2137px;
+  left: 676px;
+}
+.cm7 {
+  top: 1651px;
+  left: 707px;
+}
+.brightGrey2,
+.brightGrey3,
+.cm8,
+.cm9,
+.india,
+.india1,
+.kg2,
+.kg3,
+.legHeight,
+.upholsteryColor {
+  position: absolute;
+  top: 1147px;
+  left: 363px;
+  line-height: 126.5%;
+  display: flex;
+  align-items: center;
+  width: 241px;
+}
+.brightGrey2,
+.brightGrey3,
+.cm8,
+.cm9,
+.india,
+.india1,
+.kg3,
+.legHeight,
+.upholsteryColor {
+  left: 707px;
+}
+.brightGrey2,
+.brightGrey3,
+.cm8,
+.cm9,
+.india,
+.india1,
+.legHeight,
+.upholsteryColor {
+  top: 786px;
+  left: 42px;
+}
+.brightGrey2,
+.brightGrey3,
+.cm8,
+.cm9,
+.india,
+.india1,
+.legHeight {
+  top: 1710px;
+}
+.brightGrey2,
+.brightGrey3,
+.cm8,
+.cm9,
+.india,
+.india1 {
+  top: 786px;
+  left: 363px;
+}
+.brightGrey3,
+.cm8,
+.cm9,
+.india,
+.india1 {
+  left: 707px;
+}
+.cm8,
+.cm9,
+.india,
+.india1 {
+  top: 1710px;
+  left: 363px;
+}
+.cm9,
+.india,
+.india1 {
+  left: 707px;
+}
+.india,
+.india1 {
+  top: 1231px;
+  left: 363px;
+}
+.india1 {
+  left: 707px;
+}
+.viewMore {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.groupChild {
+  position: absolute;
+  top: 32px;
+  left: -1px;
+  border-top: 2px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 117px;
+  height: 2px;
+}
+.viewMoreParent {
+  position: absolute;
+  top: 181px;
+  left: 42px;
+  width: 115px;
+  height: 33px;
+  color: var(--color-dimgray-100);
+}
+.groupItem {
+  position: absolute;
+  top: 385.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 1333px;
+  height: 1px;
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-linen-200);
+  width: 280px;
+  height: 177px;
+}
+.outdoorSofaSet1,
+.rectangleWrapper {
+  position: absolute;
+  top: 34px;
+  left: 3px;
+  width: 280px;
+  height: 177px;
+}
+.outdoorSofaSet1 {
+  top: 0;
+  left: 0;
+  width: 271px;
+  height: 201px;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 667px;
+  width: 283px;
+  height: 211px;
+  cursor: pointer;
+}
+.asgaardSofa3 {
+  position: absolute;
+  top: 20px;
+  left: 19px;
+  width: 239px;
+  height: 142px;
+  object-fit: cover;
+}
+.groupWrapper,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 280px;
+  height: 177px;
+}
+.groupWrapper {
+  top: 34px;
+  left: 340px;
+  cursor: pointer;
+}
+.groupChild1,
+.groupChild2,
+.lineDiv {
+  position: absolute;
+  top: 385.5px;
+  left: 300.5px;
+  border-right: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 2260px;
+}
+.groupChild1,
+.groupChild2 {
+  left: 644.5px;
+}
+.groupChild2 {
+  left: 988.5px;
+}
+.div,
+.div1,
+.rs22400000,
+.rs25000000 {
+  position: absolute;
+  top: 265px;
+  left: 343px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+}
+.div,
+.div1,
+.rs22400000 {
+  left: 675px;
+}
+.div,
+.div1 {
+  top: 299px;
+}
+.div1 {
+  left: 343px;
+}
+.groupChild3,
+.groupIcon {
+  position: absolute;
+  top: 302px;
+  left: 374px;
+  width: 124px;
+  height: 20px;
+}
+.groupChild3 {
+  left: 707px;
+}
+.groupChild4,
+.groupChild5 {
+  position: absolute;
+  top: 296.5px;
+  left: 503.5px;
+  border-right: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 31px;
+}
+.groupChild5 {
+  left: 830.5px;
+}
+.review,
+.review1 {
+  position: absolute;
+  top: 302px;
+  left: 513px;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkgray-100);
+}
+.review1 {
+  left: 839px;
+}
+.groupChild6 {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--primary);
+  width: 242px;
+  height: 39px;
+}
+.addAProduct,
+.chooseAProduct {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 126.5%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 174px;
+  height: 26px;
+}
+.chooseAProduct {
+  top: 46px;
+  left: 18px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  width: 149px;
+}
+.vectorIcon {
+  position: absolute;
+  top: 54px;
+  left: 208px;
+  width: 20px;
+  height: 10.88px;
+}
+.groupContainer,
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 242px;
+  height: 79px;
+}
+.groupContainer {
+  top: 83px;
+  left: 1019px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+}
+.groupChild7 {
+  position: absolute;
+  top: 164px;
+  left: 1019px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 25px -4px rgba(0, 0, 0, 0.25);
+  width: 241px;
+  height: 228px;
+  display: none;
+}
+.goToProductPageForMorePrParent {
+  position: absolute;
+  top: 416px;
+  left: 54px;
+  width: 1332px;
+  height: 2645px;
+}
+.productComparison {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3998px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

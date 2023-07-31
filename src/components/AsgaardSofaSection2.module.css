@@ -1,0 +1,267 @@
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild {
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 820px;
+}
+.groupItem {
+  width: 553px;
+  height: 500px;
+  object-fit: cover;
+}
+.asgaardSofa,
+.rs25000000 {
+  position: absolute;
+  left: 1px;
+}
+.asgaardSofa {
+  top: 0;
+  font-size: var(--font-size-23xl);
+  color: var(--color-black);
+}
+.rs25000000 {
+  top: 63px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.groupInner,
+.lineDiv {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  width: 124px;
+  height: 20px;
+}
+.lineDiv {
+  top: 108.5px;
+  left: 141.5px;
+  border-right: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 31px;
+}
+.customerReview {
+  position: absolute;
+  top: 114px;
+  left: 164px;
+  font-size: var(--font-size-smi);
+}
+.settingTheBar {
+  margin: 0;
+}
+.settingTheBarContainer {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  display: inline-block;
+  width: 424px;
+  height: 80px;
+}
+.color {
+  position: absolute;
+  top: 335px;
+  left: 0;
+  font-size: var(--font-size-sm);
+}
+.groupChild1,
+.groupChild2,
+.rectangleDiv {
+  position: absolute;
+  top: 368px;
+  left: 1px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-mediumslateblue);
+  width: 30px;
+  height: 30px;
+}
+.groupChild1,
+.groupChild2 {
+  left: 47px;
+  background-color: var(--color-black);
+}
+.groupChild2 {
+  left: 93px;
+  background-color: var(--primary);
+}
+.groupChild3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 215px;
+  height: 64px;
+}
+.addToCart,
+.rectangleGroup {
+  position: absolute;
+  top: 17px;
+  left: 48px;
+}
+.rectangleGroup {
+  top: 430px;
+  left: 142px;
+  width: 215px;
+  height: 64px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.compare,
+.div {
+  position: relative;
+}
+.compare {
+  font-size: var(--font-size-xl);
+}
+.parent {
+  position: absolute;
+  top: 15px;
+  left: 47px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.rectangleContainer {
+  position: absolute;
+  top: 430px;
+  left: 367px;
+  width: 215px;
+  height: 64px;
+  cursor: pointer;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+}
+.groupChild5 {
+  position: absolute;
+  top: 553.5px;
+  left: 0.49px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 606.01px;
+  height: 1px;
+}
+.sku {
+  position: absolute;
+  top: 595px;
+  left: 0;
+}
+.sofaChairHome,
+.sofas,
+.ss001 {
+  position: absolute;
+  top: 595px;
+  left: 107px;
+}
+.sofaChairHome,
+.sofas {
+  top: 631px;
+}
+.sofaChairHome {
+  top: 667px;
+}
+.div1 {
+  position: absolute;
+  top: 0;
+}
+.div1,
+.div2,
+.div3 {
+  left: 0;
+  font-weight: 500;
+}
+.div2 {
+  position: absolute;
+  top: 36px;
+}
+.div3 {
+  top: 72px;
+}
+.div3,
+.div4,
+.group {
+  position: absolute;
+}
+.div4 {
+  top: 108px;
+  left: 0;
+  font-weight: 500;
+}
+.group {
+  top: 595px;
+  left: 91px;
+  width: 4px;
+  height: 132px;
+}
+.category,
+.share,
+.tags {
+  position: absolute;
+  top: 631px;
+  left: 0;
+}
+.share,
+.tags {
+  top: 667px;
+}
+.share {
+  top: 705px;
+}
+.akarIconsfacebookFill {
+  position: absolute;
+  top: 707px;
+  left: 107px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.akarIconslinkedinBoxFill,
+.antDesigntwitterCircleFillIcon {
+  position: absolute;
+  top: 705px;
+  left: 195px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.akarIconslinkedinBoxFill {
+  top: 707px;
+  left: 152px;
+  width: 20px;
+  height: 20px;
+}
+.asgaardSofaParent,
+.groupParent,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 635px;
+  width: 606.01px;
+  height: 730px;
+}
+.groupParent,
+.rectangleParent {
+  top: 35px;
+  left: 99px;
+  width: 1241.01px;
+}
+.rectangleParent {
+  top: 211px;
+  left: 0;
+  width: 1440px;
+  height: 820px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,125 @@
+.headerChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.about,
+.contact,
+.home,
+.shop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.about,
+.contact,
+.shop {
+  left: 28.6%;
+}
+.about,
+.contact {
+  left: 55.81%;
+}
+.contact {
+  left: 84.65%;
+}
+.homeParent {
+  position: absolute;
+  height: 58.54%;
+  width: 33.44%;
+  top: 21.95%;
+  right: 31.49%;
+  bottom: 19.51%;
+  left: 35.07%;
+}
+.akarIconsheart,
+.akarIconssearch,
+.antDesignshoppingCartOutliIcon,
+.mdiaccountAlertOutlineIcon {
+  position: absolute;
+  height: 68.29%;
+  width: 2.18%;
+  top: 17.07%;
+  right: 17.03%;
+  bottom: 14.63%;
+  left: 80.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.akarIconsheart,
+.akarIconssearch,
+.antDesignshoppingCartOutliIcon {
+  right: 11.35%;
+  left: 86.47%;
+}
+.akarIconsheart,
+.antDesignshoppingCartOutliIcon {
+  right: 5.68%;
+  left: 92.15%;
+}
+.antDesignshoppingCartOutliIcon {
+  right: 0;
+  left: 97.82%;
+}
+.meubelHouseLogos05Icon {
+  position: relative;
+  width: 50px;
+  height: 32px;
+  object-fit: cover;
+}
+.skinclinic {
+  position: relative;
+}
+.meubelHouseLogos05Parent {
+  position: absolute;
+  height: 100%;
+  width: 14.39%;
+  top: 0;
+  right: 85.61%;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xs);
+}
+.mdiaccountAlertOutlineParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+  font-size: var(--font-size-15xl);
+  font-family: var(--font-montserrat);
+}
+.groupParent {
+  position: absolute;
+  height: 41%;
+  width: 89.31%;
+  top: 29%;
+  right: 6.94%;
+  bottom: 30%;
+  left: 3.75%;
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 100px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

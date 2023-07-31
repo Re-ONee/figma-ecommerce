@@ -1,0 +1,82 @@
+.living {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.livingWrapper,
+.maskGroupIcon {
+  position: absolute;
+  top: 649px;
+  left: 556px;
+  width: 71px;
+  height: 36px;
+}
+.maskGroupIcon {
+  top: 139px;
+  left: 0;
+  width: 381px;
+  height: 480px;
+  object-fit: cover;
+}
+.dining {
+  position: absolute;
+  top: 649px;
+  left: 151px;
+  font-weight: 600;
+}
+.imageLivingRoomIcon,
+.maskGroupIcon1 {
+  position: absolute;
+  top: 139px;
+  left: 401px;
+  width: 381px;
+  height: 480px;
+  object-fit: cover;
+}
+.maskGroupIcon1 {
+  left: 802px;
+}
+.bedroomWrapper {
+  position: absolute;
+  top: 649px;
+  left: 936px;
+  width: 112px;
+  height: 36px;
+}
+.browseTheRange {
+  position: absolute;
+  top: 0;
+  left: 94px;
+}
+.treatingAllSkin {
+  position: absolute;
+  height: 37.43%;
+  top: 62.57%;
+  left: calc(50% - 279.5px);
+  font-size: var(--font-size-xl);
+  color: var(--font-color1);
+  text-align: center;
+  display: inline-block;
+  width: 559px;
+}
+.browseTheRangeParent,
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 318px;
+  width: 559px;
+  height: 76.71px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+}
+.groupParent {
+  top: 869px;
+  left: 131px;
+  width: 1183px;
+  height: 685px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--font-color);
+  font-family: var(--font-poppins);
+}

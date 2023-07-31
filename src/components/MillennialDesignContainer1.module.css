@@ -1,0 +1,121 @@
+.goingAllInWith {
+  position: absolute;
+  top: 556px;
+  left: 3px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+}
+.loremIpsumDolor {
+  position: absolute;
+  top: 613px;
+  left: 3px;
+  font-size: var(--font-size-mini);
+  line-height: 150%;
+  color: var(--color-darkgray-100);
+  text-align: justify;
+  display: inline-block;
+  width: 817px;
+}
+.admin,
+.groupChild {
+  position: absolute;
+  top: 0;
+}
+.groupChild {
+  left: 3px;
+  border-radius: var(--br-3xs);
+  width: 817px;
+  height: 500px;
+  object-fit: cover;
+}
+.admin {
+  left: 27px;
+}
+.dashiconsadminUsers {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.adminParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 24px;
+}
+.citagIcon,
+.wood {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.citagIcon {
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.uiscalenderIcon,
+.woodParent {
+  position: absolute;
+  top: 0;
+  left: 271px;
+  width: 78px;
+  height: 24px;
+}
+.uiscalenderIcon {
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.groupParent,
+.oct2022Parent {
+  position: absolute;
+  top: 0;
+  left: 115px;
+  width: 121px;
+  height: 24px;
+}
+.groupParent {
+  top: 517px;
+  left: 0;
+  width: 349px;
+  color: var(--color-darkgray-100);
+}
+.groupItem,
+.readMore {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupItem {
+  top: 35.5px;
+  left: 5.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 78px;
+  height: 1px;
+}
+.readMoreParent {
+  position: absolute;
+  top: 758px;
+  left: 3px;
+  width: 89px;
+  height: 36px;
+  text-align: justify;
+}
+.goingAllInWithMillennialDParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 820px;
+  height: 794px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

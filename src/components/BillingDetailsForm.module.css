@@ -1,0 +1,175 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 608px;
+  height: 1714px;
+}
+.billingDetails {
+  position: absolute;
+  top: 35px;
+  left: 74px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+}
+.firstName {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.groupItem {
+  position: absolute;
+  top: 46px;
+  left: 1px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 211px;
+  height: 75px;
+}
+.firstNameParent {
+  position: absolute;
+  top: 125px;
+  left: 75px;
+  width: 212px;
+  height: 121px;
+}
+.lastName {
+  position: absolute;
+  top: 125px;
+  left: 317px;
+  font-weight: 500;
+}
+.groupInner {
+  position: absolute;
+  top: 171px;
+  left: 318px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 211px;
+  height: 75px;
+}
+.companyNameOptional {
+  position: absolute;
+  top: 282px;
+  left: 75px;
+  font-weight: 500;
+}
+.groupChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 328px;
+  left: 76px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 453px;
+  height: 75px;
+}
+.groupChild1 {
+  top: 46px;
+  left: 1px;
+}
+.streetAddressParent,
+.zipCodeParent {
+  position: absolute;
+  top: 596px;
+  left: 75px;
+  width: 454px;
+  height: 121px;
+}
+.zipCodeParent {
+  top: 1067px;
+}
+.emailAddressParent,
+.groupChild6,
+.phoneParent,
+.townCityParent {
+  position: absolute;
+  top: 753px;
+  left: 75px;
+  width: 454px;
+  height: 121px;
+}
+.emailAddressParent,
+.groupChild6,
+.phoneParent {
+  top: 1224px;
+}
+.emailAddressParent,
+.groupChild6 {
+  top: 1381px;
+}
+.groupChild6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 453px;
+  height: 75px;
+}
+.additionalInformation,
+.rectangleGroup {
+  position: absolute;
+  top: 26px;
+  left: 29px;
+}
+.rectangleGroup {
+  top: 1568px;
+  left: 76px;
+  width: 453px;
+  height: 75px;
+  color: var(--color-darkgray-100);
+}
+.countryRegionParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 454px;
+  height: 121px;
+}
+.sriLanka {
+  position: absolute;
+  top: 72px;
+  left: 31px;
+  color: var(--color-darkgray-100);
+}
+.dashiconsarrowDownAlt2 {
+  position: absolute;
+  top: 74px;
+  left: 407px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.groupContainer,
+.groupParent,
+.rectangleParent {
+  position: absolute;
+  top: 439px;
+  left: 75px;
+  width: 454px;
+  height: 121px;
+}
+.groupContainer,
+.rectangleParent {
+  top: 910px;
+}
+.rectangleParent {
+  top: 0;
+  left: 0;
+  width: 608px;
+  height: 1714px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

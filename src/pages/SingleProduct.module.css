@@ -1,0 +1,98 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 744px;
+}
+.groupItem {
+  position: absolute;
+  top: -0.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.description {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.additionalInformation,
+.reviews5 {
+  position: absolute;
+  top: 0;
+  left: 189px;
+}
+.reviews5 {
+  left: 511px;
+}
+.descriptionParent {
+  position: absolute;
+  top: 48px;
+  left: 396px;
+  width: 649px;
+  height: 36px;
+}
+.embodyingTheRaw,
+.weighingInUnder {
+  position: absolute;
+  bottom: 126px;
+  left: 0;
+  display: inline-block;
+  width: 1026px;
+  height: 48px;
+}
+.weighingInUnder {
+  bottom: 0;
+  height: 96px;
+}
+.embodyingTheRawWaywardSpiParent {
+  position: absolute;
+  bottom: 449px;
+  left: 207px;
+  width: 1026px;
+  height: 174px;
+  text-align: justify;
+  font-size: var(--font-size-base);
+}
+.groupInner {
+  position: absolute;
+  top: 331px;
+  left: 100px;
+  width: 1239px;
+  height: 348px;
+  object-fit: cover;
+}
+.lineDiv {
+  position: absolute;
+  top: 743.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 1042px;
+  left: 0;
+  width: 1440px;
+  height: 744px;
+}
+.singleProduct {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3107px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-poppins);
+}

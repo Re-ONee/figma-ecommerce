@@ -1,0 +1,110 @@
+.scandinavianInteriorMockupWIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1007.93px;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-oldlace);
+  width: 643px;
+  height: 443px;
+}
+.discoverOur {
+  margin: 0;
+}
+.dermatologySkinContainer,
+.treatingAllSkin {
+  position: absolute;
+  left: 0.36%;
+  display: inline-block;
+}
+.dermatologySkinContainer {
+  width: 99.64%;
+  top: calc(50% - 144px);
+  font-size: var(--font-size-33xl);
+  line-height: 65px;
+  color: var(--primary);
+  height: 127px;
+}
+.treatingAllSkin {
+  height: 15.12%;
+  width: 97.33%;
+  top: 50%;
+  font-size: var(--font-size-lg);
+  line-height: 24px;
+  font-weight: 500;
+}
+.bookAnAppointment {
+  position: relative;
+  text-transform: uppercase;
+}
+.bookAnAppointmentWrapper {
+  position: absolute;
+  top: 270px;
+  left: 0;
+  background-color: var(--primary);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xl) var(--padding-53xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-white);
+}
+.bookAnAppointment1 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 0;
+  letter-spacing: 3px;
+  font-weight: 600;
+}
+.bookAnAppointmentContainer {
+  position: absolute;
+  width: 21.93%;
+  top: calc(50% - 172px);
+  right: 77.72%;
+  left: 0.36%;
+  height: 24px;
+}
+.dermatologySkinCParent {
+  position: absolute;
+  width: 87.25%;
+  top: calc(50% - 159.5px);
+  right: 6.69%;
+  left: 6.07%;
+  height: 344px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 157.3px;
+  left: 739px;
+  width: 643px;
+  height: 443px;
+}
+.banner,
+.maskGroup {
+  position: absolute;
+  left: 0;
+}
+.maskGroup {
+  height: 88.22%;
+  width: 100%;
+  top: 11.78%;
+  right: 0;
+  bottom: 0;
+  color: var(--font-color);
+}
+.banner {
+  top: 0;
+  width: 1440px;
+  height: 812.53px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

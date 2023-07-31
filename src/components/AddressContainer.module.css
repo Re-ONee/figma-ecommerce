@@ -1,0 +1,89 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 537px;
+}
+.bxsphoneIcon,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 5.14%;
+  width: 5.6%;
+  top: 8.59%;
+  right: 80.66%;
+  bottom: 86.27%;
+  left: 13.74%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.bxsphoneIcon {
+  top: 211px;
+  left: 46px;
+  width: 30px;
+  height: 30px;
+}
+.address {
+  position: absolute;
+  top: 58px;
+  left: 106px;
+  font-weight: 500;
+}
+.workingTime {
+  top: 334px;
+  font-weight: 500;
+}
+.phone,
+.thSeAvenue,
+.workingTime {
+  position: absolute;
+  left: 106px;
+}
+.phone {
+  top: 208px;
+  font-weight: 500;
+}
+.thSeAvenue {
+  top: 94px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 212px;
+}
+.mondayFriday900 {
+  margin: 0;
+}
+.mobile845466789Container,
+.mondayFriday900Container {
+  position: absolute;
+  top: 370px;
+  left: 106px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 212px;
+}
+.mobile845466789Container {
+  top: 244px;
+}
+.biclockFillIcon {
+  position: absolute;
+  top: 340px;
+  left: 53px;
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+}
+.rectangleParent {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  width: 393px;
+  height: 537px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
